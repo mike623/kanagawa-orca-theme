@@ -11,6 +11,18 @@ Katsushika Hokusai's *The Great Wave off Kanagawa*, using the palettes from
 | Kanagawa Dragon | Dark | `#181616` | `#C5C9C5` | Charcoal, muted greens and earthy accents |
 | Kanagawa Lotus | Light | `#F2ECBC` | `#545464` | Warm paper, dark ink and restrained colors |
 
+### Wave
+
+![Kanagawa Wave in the Orca editor](screenshots/wave.png)
+
+### Dragon
+
+![Kanagawa Dragon in the Orca editor](screenshots/dragon.png)
+
+### Lotus
+
+![Kanagawa Lotus in the Orca editor](screenshots/lotus.png)
+
 Requires **Orca 1.4.246 or later**. This is a data-only plugin: no executable
 entry point, requested capabilities, dependencies or build step.
 
