@@ -1,0 +1,49 @@
+{
+  "manifestVersion": 2,
+  "id": "kanagawa-theme",
+  "name": "Kanagawa",
+  "version": "0.1.0",
+  "description": "Kanagawa Wave, Dragon and Lotus app, editor and terminal themes.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "themes": [
+      {
+        "id": "kanagawa-wave",
+        "title": "Kanagawa Wave",
+        "path": "themes/wave.json"
+      },
+      {
+        "id": "kanagawa-dragon",
+        "title": "Kanagawa Dragon",
+        "path": "themes/dragon.json"
+      },
+      {
+        "id": "kanagawa-lotus",
+        "title": "Kanagawa Lotus",
+        "path": "themes/lotus.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "kanagawa-wave",
+        "title": "Kanagawa Wave",
+        "path": "terminal/wave.json"
+      },
+      {
+        "id": "kanagawa-dragon",
+        "title": "Kanagawa Dragon",
+        "path": "terminal/dragon.json"
+      },
+      {
+        "id": "kanagawa-lotus",
+        "title": "Kanagawa Lotus",
+        "path": "terminal/lotus.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "capabilities": []
+}
